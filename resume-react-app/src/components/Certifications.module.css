@@ -1,0 +1,20 @@
+/* src/components/Certifications.module.css */
+.certifications {
+    background-color: white;
+    padding: 20px;
+  }
+  
+  .certifications h2 {
+    font-size: 24px;
+  }
+  
+  .certifications ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .certifications li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  

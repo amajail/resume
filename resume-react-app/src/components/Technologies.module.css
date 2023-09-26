@@ -1,0 +1,23 @@
+/* src/components/Technologies.module.css */
+.technologies {
+    background: linear-gradient(to bottom, #0074D9, #001F3F);
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .tags {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .tag {
+    background-color: #0074D9;
+    color: white;
+    font-size: 16px;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 20px;
+  }
+  

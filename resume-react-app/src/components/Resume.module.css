@@ -1,0 +1,13 @@
+/* src/components/Resume.module.css */
+/* I want to create a css sheet for my Resume.jsx 
+ background should be white and has to have a blue gradient theme */
+.Resume {
+  background: linear-gradient(to bottom, #0074D9, #001F3F);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.Resume > div {
+  margin: 20px 0;
+}

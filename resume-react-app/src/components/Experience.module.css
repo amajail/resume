@@ -1,0 +1,25 @@
+/* src/components/Experience.module.css */
+.experience {
+    background: linear-gradient(to bottom, #0074D9, #001F3F);
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .job {
+    border: 2px solid white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+  }
+  
+  .job h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .job p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
